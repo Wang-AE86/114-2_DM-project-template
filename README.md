@@ -7,9 +7,9 @@
 | 課程 | 114-2 資料探勘 |
 | 組別 | 第 三 組 |
 | 專題名稱 | （請填入你們的專題名稱） |
-| 組長 | 王智弘 / https://github.com/Wang-AE86
+| 偉大的組長 | 王智弘 / https://github.com/Wang-AE86
 | 組員 | 蕭杰睿 / https://github.com/xjr09
-| 死組員 | 高煜欽 / https://github.com/kao456
+| 組員 | 高煜欽 / https://github.com/kao456
 | 組員 | 郭晉銘 / https://github.com/mycowbei69
 | 組員 | 葉育晉 / https://github.com/c113181181-hub
 ---
