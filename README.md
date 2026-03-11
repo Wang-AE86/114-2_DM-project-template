@@ -5,11 +5,13 @@
 | 項目 | 說明 |
 |------|------|
 | 課程 | 114-2 資料探勘 |
-| 組別 | 第 __ 組 |
+| 組別 | 第 三 組 |
 | 專題名稱 | （請填入你們的專題名稱） |
-| 組長 | （姓名 / GitHub 帳號） |
-| 組員 | （姓名 / GitHub 帳號） |
-
+| 組長 | （姓名 / GitHub 帳號） |王智弘 / https://github.com/Wang-AE86
+| 組員 | （姓名 / GitHub 帳號） |蕭杰睿 / https://github.com/xjr09
+| 組員 | （姓名 / GitHub 帳號） |高煜欽 / https://github.com/kao456
+| 組員 | （姓名 / GitHub 帳號） |郭晉銘 / https://github.com/mycowbei69
+| 組員 | （姓名 / GitHub 帳號） |葉育晉 / https://github.com/c113181181-hub
 ---
 
 ## 專題說明
